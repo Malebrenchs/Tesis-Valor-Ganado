@@ -4,7 +4,7 @@
 ## I 
 Palabras clave y repositorio de la universidad/nacionales
 ## P 
-Búsqueda en repositorios
+Búsqueda en repositorios de pregrado
 ## O 
 6 Resultados obtenidos
 ## E
