@@ -1,4 +1,4 @@
-# QIPO-001: Seleccción general de tema
+# QIPO-001: Tema General
 ## Q
 ¿Qué tema se desea investigar de forma general?
 ## I 
