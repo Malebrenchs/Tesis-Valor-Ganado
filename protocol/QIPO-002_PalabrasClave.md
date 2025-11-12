@@ -1,4 +1,4 @@
-# QIPO-002: Obtención de palabras clave
+# QIPO-002: Palabras Clave
 ## Q
 ¿Qué palabras clave se obtienen del tema que se desea investigar para poder buscar información en repositorios de trabajos de investigación?
 ## I 
