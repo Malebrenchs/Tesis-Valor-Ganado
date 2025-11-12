@@ -8,4 +8,4 @@ Revisión del ppt y matriz de consistencia
 ## O 
 Se encuentra en los documentos la intención de realizar la siguiente investigación "GESTIÓN DE COSTOS PARA EL MONITOREO DEL ESTADO SITUACIONAL DE LOS CENTROS EDUCATIVOS – CARBAYLLO 2018
 ## E
-: [R-001](../evidences/E-001)
+[R-001](../evidences/E-001)
