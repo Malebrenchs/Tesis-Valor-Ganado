@@ -1,4 +1,5 @@
-# QIPO-003: Búsqueda en repositorios (pregrado)
+# QIPO-003: Repos-Pregrado
+Búsqueda en repositorios (pregrado)
 ## Q
 ¿Qué resultados se obtienen de la búsqueda de las palabras clave en repositorios de pregrado de la universidad propia y nacionales de ser necesario?
 ## I 
