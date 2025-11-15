@@ -53,13 +53,61 @@ Procesos realizados en el trabajo:
 - Toma de proyecciones el EV
 - Realiza sus proyecciones al 3er mes y toma medidas correctivas.
 
+### IMPLEMENTACIÓN DEL MÉTODO DE LA CONSTRUCCIÓN SIN PÉRDIDAS Y DEL VALOR GANADO EN EL CONJUNTO RESIDENCIAL LOS HUERTOS - DISTRITO DE SAN MARTIN DE PORRES
+Autor:   JONNEL HENRRY RAMIREZ PAREDES. (Tesis)
+Asesor:   Dr. Ing. Raúl Valentín Pumaricra Padilla
+Jurado:   No especifica.
+Resumen de trabajo: 
+- Aplica el método de construcción si pérdidas, last planner y valor ganado
+- Se enfoca en el bloque D (un único bloque) de una obra de construcción
+- Desea reducir costos y plazos en el bloque
+Procesos realizados en el trabajo:
+- Establece un Plan Maestro como línea base y luego "aplicando las metodologias anteriormente descritas" afirma obtener una reducción de plazo y costo comparado a ese plan maestro que se propuso.
+- Comparó sus resultados con otro trabajo de investigación en una construcción diferente
 
+### INCIDENCIA DE LA APLICACIÓN DEL MÉTODO DE VALOR GANADO EN LA PRODUCTIVIDAD DE UNA EDIFICACIÓN MULTIFAMILIAR: EDIFICIO MULTIFAMILIAR SENSARA
+Autor: Quispe Bellido, Deybi Adon (Tesis) 
+Asesor: Tabory Malpartida, Gustavo Augusto
+Jurado: Ramos Flores, Miguel Ángel; Arévalo Vidal, Samir; Ayquipa Quispe, Evelyn
+Resumen del trabajo:
+- La investigación busca demostrar la incidencia de la Metodología del Valor Ganado (EVM) en la productividad de la ejecución de un edificio multifamiliar real (Edificio Sensara).
+- El autor parte del problema del control deficiente de costos, plazos y alcance en proyectos de edificación, analizando cómo la aplicación del EVM puede mejorar la productividad del proceso constructivo.
+- El estudio caracteriza la investigación como aplicada, con enfoque cuantitativo, diseño no experimental y de tipo explicativo.
+- Se evalúan los indicadores principales del EVM: PV, EV, AC, CV, SV, CPI, SPI, EAC, ETC, VAC, para comparar el rendimiento real frente a la línea base.
+Procesos realizados en el trabajo
+- Define variables, procedimientos, instrumentos y métodos para la captura y procesamiento de datos.
+- Obtiene información histórica del proyecto ejecutado: cuadro de actividades, cronograma, presupuesto, curvas S.
+- Elabora la línea base de valor planificado (PV) mediante el cronograma valorizado.
+- Registra el valor ganado (EV) y el costo real (AC) con información técnica y administrativa del proyecto.
+- Genera curvas S individuales de PV, EV y AC, y luego realiza comparaciones gráficas.
+- Calcula indicadores EVM: CV, SV, CPI, SPI, CSI, TCPI, EAC, ETC, VAC, interpretando el rendimiento general del proyecto.
+- Evalúa variaciones de costo y cronograma, e interpreta el desempeño global con base en los resultados numéricos y gráficos.
+- Toma datos de la obra y los procesa con las fórmulas de valor ganado. No realiza procedimientos adicionales
 
+### METODOLOGÍA DEL VALOR GANADO Y SISTEMA DEL ÚLTIMO PLANIFICADOR PARA EL CONTROL Y SEGUIMIENTO DE COSTO Y TIEMPO EN OBRAS DE LÍNEA DE TRANSMISIÓN ELÉCTRICA SUBTERRÁNEA
+Autor: Aquino Condezo, Julio César (Suficiencia Profesional) 
+Asesor: Pumaricra Padilla, Raúl Valentín
+Jurado: Tello Malpartida, Omart Demetrio; Quintanilla Huayta, Darío; Arévalo Vidal, Samir Augusto
+Resumen del trabajo:
+- El propósito del estudio es implementar conjuntamente la Metodología del Valor Ganado (EVM) y el Sistema del Último Planificador (LPS) para mejorar el control de costo y tiempo en una obra electromecánica de transmisión eléctrica subterránea (LT 60 kV SET Santa Rosa – SET Zárate).
+- La investigación se define como aplicada, cuantitativa, correlacional y explicativa, con diseño no experimental longitudinal, dado que analiza el desempeño del proyecto durante varios periodos de avance.
+- Emplea indicadores del EVM y del LPS para evaluar y controlar desviaciones de costos, cronograma y productividad.
+- Concluye que la implementación integrada de ambas metodologías resultó positiva: se logró un ahorro de S/ 76,400.00, incremento del margen de utilidad en 1.79%, y un adelanto del cronograma de 16 días.
+- El autor reconoce que la combinación EVM–LPS permite decisiones correctivas más rápidas, mayor confiabilidad de planificación y una mejora sustancial en el desempeño de la obra.
+
+Procesos realizados en el trabajo
+- Descripción detallada de la empresa, experiencia del autor y delimitación del caso real ejecutado.
+- Elaboración de EDT, cronograma, hitos, plan de alcance y presupuesto base.
+- Definición de la línea base de costos mediante el PV del proyecto.
+- Cálculo periódico del avance físico para obtener el EV y recopilación de información contable-administrativa para determinar el AC.
+- Análisis quincenal de los indicadores EVM: CV, SV, CPI, SPI, EAC, ETC, generando curvas S y reportes internos.
+- Implementación del Last Planner System: sectorización, reuniones semanales, control de restricciones, planificación colaborativa y medición del PPC (Porcentaje de Plan Completado).
+- Integración de resultados EVM–LPS para evaluar correlaciones entre confiabilidad de planificación y desempeño económico.
+- Propuesta de mejoras y recomendaciones basadas en la evidencia obtenida durante la ejecución.
+- Compara los resultados obtenidos una vez aplicó las metodologías anteriormente descritas con el presupuesto planificado.
 ## O 
 Nodos posteriores
 ## E
 ---
 ## C
-previous: QIPO-003
-previous: QIPO-004
-previous: QIPO-005
+previous: QIPO-006
