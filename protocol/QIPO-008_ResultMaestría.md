@@ -16,3 +16,9 @@ Resumen de trabajo:
 - Detallado en la elaboración de las variables y matriz de operacionalización de las mismas
 - Elemento nuevo: Justificación estadística de la aceptación o no aceptación de la hipótesis
 - Hace uso T-Student y prueba Shapiro Wilk y solo con ello logra justificar sus hipótesis.
+## O 
+Nodos posteriores
+## E
+---
+## C
+previous: QIPO-006
